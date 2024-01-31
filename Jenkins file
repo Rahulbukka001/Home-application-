@@ -1,0 +1,29 @@
+pipeline {
+
+Pipeline
+
+agent any
+
+stages (1
+
+stage('Example')
+
+{
+
+Cequests
+
+steps {
+
+}
+
+Pipeline
+
+echo 'Hello World'
+
+red Libraries
+
+ent Tools
+
+}
+
+}
